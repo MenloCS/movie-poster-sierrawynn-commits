@@ -89,21 +89,20 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **My prompt:** Create a book poster for a fantasy book. That has 5 kids (3 boys and 2 girls and some villains in front of a fantasy castle. I want these two groups to be looking at each other. I want the colors to be bright like the Land of Stories book series I want the title to change.
+- **What worked:** colors   
+- **What didn't work:** the villains look weird  
+- **What I'll change for next attempt:** how it all is put together.  
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:** Create a book poster for a fantasy book. That has 5 kids (3 boys and 2 girls and some villains in front of a fantasy castle. I want these two groups to be looking at each other. I want the colors to be bright like the Land of Stories book series I want the title to change. Have the kids and the villains looking at each other with rage in their eyes, using the same formatting from attempt two. 
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:** colors and setting  
+- **What didn't work:** its so cartoon ish. 
 
 **Final AI Image Selected:** (Which attempt? Why?)  
 
----
+--- Attemtpt 2 because the villains, setting and kids looked good. The colors were right, and everything was in the right place. 
 
 ## Step 4: Photoshop Modifications
 *(Commit message: "Added Photoshop modifications")*
