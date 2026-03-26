@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:** Create a book poster image for fantasy book. That has 5 kids (3 boys and 2 girl) and some villains in front of the fantasy castle. I want these two groups to be looking at each other like they are about to go to battle.   
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** base was good  
+- **What didn't work:** to dark and and game like   
+- **What I'll change for next attempt:** what is to be more bright  
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:** Create a book poster for a fantasy book. That has 5 kids (3 boys and 2 girls and some villains in front of a fantasy castle. I want these two groups to be looking at each other. I want the colors to be bright like the Land of Stories book series.  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** color were good 
+- **What didn't work:** the name  
+- **What I'll change for next attempt:** the name  
 
 ---
 
