@@ -130,15 +130,15 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 ## Step 5: Reflection
 *(Commit message: "Completed reflection")*
 
-**How did your vision evolve?**  
+**How did your vision evolve?** it went form dark and evil, to more bright and fantasy looking.  
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
 
 
-**What decision are you most proud of that the AI didn't make for you?**  
+**What decision are you most proud of that the AI didn't make for you?** How i wanted the poster to look like, when it came to the colors a the setting for the poster.  
 
 
 **What would you do differently next time?**  
-
+See if I could the real names of the tittle, and characters for the villains. 
 
 ---
 
