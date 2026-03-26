@@ -30,32 +30,32 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:** Kingdom Keepers
+- **Why I chose this movie:** I love this book 
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  wonder and mystery
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:** Disney Castle
+I want this because this I the main setting.  
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:** I don't what it in a random city  
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):** blue, purple, green, and yellow 
+- **Accent color(s):** red, grey 
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright) muted, dark, and a little bright.  
 
 **Composition:**  
-- [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
+- [ ] Close-up (detail)  
+- [ ] Wide shot (setting)  
 - [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
+- [ ] Object centered  
 - [ ] Character collage  
 
 - **Focal point description:**  
